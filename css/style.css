@@ -1,0 +1,41 @@
+.nav-link:link {
+    font-family: "Montserrat", sans-serif;
+    color:  #ffffff;
+    font-size: 30px;
+}
+
+.nav-link:visited {
+    color:  #731c12;
+}
+
+.nav-link:hover {
+    color: #00ff15;
+}
+
+.logo {
+    width: 140px;
+}
+
+.bg-custom {
+    background-color: #ac61f1;
+}
+
+.footer {
+    background-color: #b11d1d;
+    color: #ffffff;
+    font-family: "Quattrocento", serif;
+}
+
+.bi {
+    color: #00ff15;
+}
+
+h5 {
+    font-weight:500;
+    color: #ffffff;
+}
+
+h6 {
+    font-weight:600;
+    color: #ffffff;
+}
